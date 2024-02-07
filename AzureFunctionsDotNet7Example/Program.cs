@@ -8,7 +8,7 @@ using Azure.Storage.Files.Shares;
 using Azure.Storage.Queues;
 using Microsoft.Azure.Functions.Worker.Extensions.Http;
 using Microsoft.Azure.Functions.Worker.Extensions.Http.AspNetCore;
-using Microsoft.Azure.Functions.Worker.Extensions.Storage.Queues;
+//using Microsoft.Azure.Functions.Worker.Extensions.Storage.Queues;
 using Microsoft.Extensions.Azure;
 
 var host = new HostBuilder()
